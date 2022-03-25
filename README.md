@@ -8,3 +8,6 @@ Ensuite le mieux je pense que c'est de crée d'abord une courbe, un diagramme, u
 Genre crée une fonction qui à chaque clique change le graph.
 
 Et ensuite comme ça on sera bien faire des graphs dcp on fait un animé avec des valeurs qu'on peut rentrer nous même pour spéciffier de quand à quand on veut regarder.
+
+
+Faut au moins avoir **FAIT UN GRAPH** avant le 1er avril 
