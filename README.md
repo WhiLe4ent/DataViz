@@ -1,16 +1,12 @@
 # DataViz
 Projet Mike/Achille
 
-Si tu t'y met ce week-end commenc par faire un tableau stylé genre avec toute les bonnes data bien claire et ensuite fais le graph ça sera plus facile pour lire les données comme ça.
+On doit faire 1 seule figure on a pas le droit de faire plusieur type de graph
+J'ai fait un graph avec bokeh, la docu est plutot claire : https://docs.bokeh.org/en/latest/docs/first_steps/first_steps_1.html
 
-Ensuite le mieux je pense que c'est de crée d'abord une courbe, un diagramme, un scatter, un histogramme fin genre plusieurs grap et ensuite on les mettra tous dans la fonction que je t'avais dit.
+Pour le 1 avril on doit montrer une image de notre graph mais c'est pas la version final. La version final c'est le 8
 
-Genre crée une fonction qui à chaque clique change le graph.
-
-Et ensuite comme ça on sera bien faire des graphs dcp on fait un animé avec des valeurs qu'on peut rentrer nous même pour spéciffier de quand à quand on veut regarder.
-
-
-Faut au moins avoir **FAIT UN GRAPH** avant le 1er avril 
-//
-
-ok c fait
+TODO :
+Améliorer le graph
+Faire plus de traitement de donneés (ptete voir une prédiction de la courbe)
+Améliorer la visibilité & les commentaires
