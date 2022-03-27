@@ -16,6 +16,7 @@ afficher les deux graph en même temps :
 
 
 Faire plus de traitement de donneés (ptete voir une prédiction de la courbe) (on commence à être pas mal là ) 
+
 Améliorer la **visibilité** & les commentaires
 
 
