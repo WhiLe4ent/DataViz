@@ -1,3 +1,8 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\begin{document}
 # DataViz
 Projet Mike/Achille
 
@@ -43,3 +48,4 @@ Améliorer la **visibilité** & les commentaires
 
 
 Pour le 1 avril on doit montrer une image de notre graph mais c'est pas la version final. La version final c'est le 8
+end{document}
