@@ -8,20 +8,24 @@ Graph avec bokeh, la docu est plutot claire : https://docs.bokeh.org/en/latest/d
 Graph avec holoviews, la docu est plutôt pas clair : http://holoviews.org/getting_started/index.html
 
 
-###**TODO :**
+######**TODO :**
 
 - [ ] afficher les deux graph en même temps : 
   - faire une fonction qui affiche l'un ou l'autre en fonction de si on clique sur bouton1 ou bouton2
+  - ou
   - juste les afficher l'un après l'autre (en colonne pck on a un menu pour l'année pour ds)
 
 
+- [ ] j'essaye d'afficher un range slider qui permettrait sur la figure faite avec bokeh de naviguer sur l'axe des abscisses et de choisir la partie à afficher
+- [ ] la doc permet aussi de choisir la taille des cercles avec un petit menu donc je l'ajouterai en même temps que le range slider.
+- [ ] si on fait pas la fonction : 
+      - soit reafaire la même figure en utilisant holoview pour pouvoir afficher les deux en même temps
+      - soit refaire la figure avec le menu en bokeh
 
-Faire plus de traitement de donneés (ptete voir une prédiction de la courbe) (on commence à être pas mal là ) 
-
-Améliorer la **visibilité** & les commentaires
+- [ ] Améliorer la **visibilité** & les commentaires
 
 
-###**Done :**
+######**Done :**
 
 - [x] récup data et organisation en tableau (data_test)
 - [x] fonction moy_annee() : réorganise les données et crée un nouveau tableau montrant seulement le prix moyen par année
