@@ -30,10 +30,10 @@ Améliorer la **visibilité** & les commentaires
 - organisation des data en un tableau de 3 colonnes (data_tab) : Année, Période(mois), Prix. (Permettra de faire le graph qui propose de choisir quel année vous voulez regarder)
 - graph montrant l'évolution du prix du gazole depuis 1992 ( fait avec bokeh )
   Comprend plusieurs courbes :
-      - regréssion linéaire
-      - courbes prix par mois
-      - courbe prix moyen par an
-      - rond rouge montrant une forte évolution.
+      -- regréssion linéaire
+      -- courbes prix par mois
+      -- courbe prix moyen par an
+      -- rond rouge montrant une forte évolution.
 
 - graph avec menu déroulant permettant de choisir l'année (fait avec HoloViews)
 
