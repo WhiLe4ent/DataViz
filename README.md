@@ -3,7 +3,7 @@
 Projet Mike/Achille
 
 
-Graph avec bokeh, la docu est plutot claire : https://docs.bokeh.org/en/latest/docs/first_steps/first_steps_1.html
+Graph avec bokeh, la docu est plutôt claire : https://docs.bokeh.org/en/latest/docs/first_steps/first_steps_1.html
 
 Graph avec holoviews, la docu est plutôt pas clair : http://holoviews.org/getting_started/index.html
 
