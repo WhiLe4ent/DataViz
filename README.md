@@ -29,8 +29,7 @@ Améliorer la **visibilité** & les commentaires
 - fonction forte_évolution
 - fonction reg_lineaire
 - organisation des data en un tableau de 3 colonnes (data_tab) : Année, Période(mois), Prix. (Permettra de faire le graph qui propose de choisir quel année vous voulez regarder)
-- graph montrant l'évolution du prix du gazole depuis 1992 ( fait avec bokeh )
-
+- graph montrant l'évolution du prix du gazole depuis 1992 ( fait avec bokeh ). 
   Comprend plusieurs courbes :
   - regréssion linéaire
   - courbes prix par mois
