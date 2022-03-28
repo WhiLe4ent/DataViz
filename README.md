@@ -16,7 +16,7 @@ Graph avec holoviews, la docu est plutôt pas clair : http://holoviews.org/getti
   - juste les afficher l'un après l'autre (en colonne pck on a un menu pour l'année pour ds)
 
 
-- [ ] j'essaye d'afficher un range slider qui permettrait sur la figure faite avec bokeh de naviguer sur l'axe des abscisses et de choisir la partie à afficher
+- [ ] j'essaye d'afficher un range slider qui permettrait sur la figure faite avec bokeh de naviguer sur l'axe des abscisses et de choisir la partie à afficher : https://docs.bokeh.org/en/latest/docs/first_steps/first_steps_9.html
 - [ ] la doc permet aussi de choisir la taille des cercles avec un petit menu donc je l'ajouterai en même temps que le range slider.
 - [ ] si on fait pas la fonction : 
       - soit reafaire la même figure en utilisant holoview pour pouvoir afficher les deux en même temps
