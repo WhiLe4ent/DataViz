@@ -23,20 +23,20 @@ Améliorer la **visibilité** & les commentaires
 
 **Done :**
 
-- récup data et organisation en tableau (data_test)
-- fonction moy_annee() : réorganise les données et crée un nouveau tableau montrant seulement le prix moyen par année
-- fonction Ecart_type
-- fonction forte_évolution
-- fonction reg_lineaire
-- organisation des data en un tableau de 3 colonnes (data_tab) : Année, Période(mois), Prix. (Permettra de faire le graph qui propose de choisir quel année vous voulez regarder)
-- graph montrant l'évolution du prix du gazole depuis 1992 ( fait avec bokeh ). 
+[x] récup data et organisation en tableau (data_test)
+[x] fonction moy_annee() : réorganise les données et crée un nouveau tableau montrant seulement le prix moyen par année
+[x] fonction Ecart_type
+[x] fonction forte_évolution
+[x] fonction reg_lineaire
+[x] organisation des data en un tableau de 3 colonnes (data_tab) : Année, Période(mois), Prix. (Permettra de faire le graph qui propose de choisir quel année vous voulez regarder)
+[x] graph montrant l'évolution du prix du gazole depuis 1992 ( fait avec bokeh ). 
   Comprend plusieurs courbes :
   - regréssion linéaire
   - courbes prix par mois
   - courbe prix moyen par an
   - rond rouge montrant une forte évolution.
 
-- graph avec menu déroulant permettant de choisir l'année (fait avec HoloViews)
+[x] graph avec menu déroulant permettant de choisir l'année (fait avec HoloViews)
 
 
 
