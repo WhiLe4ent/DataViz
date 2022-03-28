@@ -33,10 +33,10 @@ Améliorer la **visibilité** & les commentaires
 
   Comprend plusieurs courbes :
   
-      - regréssion linéaire
-      - courbes prix par mois
-      - courbe prix moyen par an
-      - rond rouge montrant une forte évolution.
+  - regréssion linéaire
+  - courbes prix par mois
+  - courbe prix moyen par an
+  - rond rouge montrant une forte évolution.
 
 - graph avec menu déroulant permettant de choisir l'année (fait avec HoloViews)
 
