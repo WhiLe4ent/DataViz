@@ -31,10 +31,12 @@ Améliorer la **visibilité** & les commentaires
 - graph montrant l'évolution du prix du gazole depuis 1992 ( fait avec bokeh )
 
   Comprend plusieurs courbes :
-      -- regréssion linéaire
-      -- courbes prix par mois
-      -- courbe prix moyen par an
-      -- rond rouge montrant une forte évolution.
+  \begin{enumerate}
+      \item regréssion linéaire
+      \item courbes prix par mois
+      \item courbe prix moyen par an
+      \item rond rouge montrant une forte évolution.
+  \end{enumerate}
 
 - graph avec menu déroulant permettant de choisir l'année (fait avec HoloViews)
 
