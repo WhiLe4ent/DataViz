@@ -1,8 +1,4 @@
-\documentclass[12pt,a4paper]{article}
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
-\usepackage[french]{babel}
-\begin{document}
+
 # DataViz
 Projet Mike/Achille
 
@@ -36,16 +32,13 @@ Améliorer la **visibilité** & les commentaires
 - graph montrant l'évolution du prix du gazole depuis 1992 ( fait avec bokeh )
 
   Comprend plusieurs courbes :
-  \begin{enumerate}
       \item regréssion linéaire
       \item courbes prix par mois
       \item courbe prix moyen par an
       \item rond rouge montrant une forte évolution.
-  \end{enumerate}
 
 - graph avec menu déroulant permettant de choisir l'année (fait avec HoloViews)
 
 
 
 Pour le 1 avril on doit montrer une image de notre graph mais c'est pas la version final. La version final c'est le 8
-end{document}
