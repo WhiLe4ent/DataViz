@@ -24,6 +24,7 @@ Graph avec holoviews, la docu est plutôt pas clair : http://holoviews.org/getti
 
 - [ ] Améliorer la **visibilité** & les commentaires
 - [ ] Graph Holoviews : rendre l'axe des ordonnées adaptif pour afficher les ordonnées relatives au prix pour avoir une courbe plus explicite
+- [ ] Faire un range slider ( un truc qui te permet de selectionner de quand à quand tu veuxx voir |--------|[-----------]|---| c'est pas clair mais un bail dans le genre)
 
 
 ## **Done :**
