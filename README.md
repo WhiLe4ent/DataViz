@@ -23,6 +23,7 @@ Graph avec holoviews, la docu est plutôt pas clair : http://holoviews.org/getti
   - soit refaire la figure avec le menu en bokeh
 
 - [ ] Améliorer la **visibilité** & les commentaires
+- [ ] Graph Holoviews : rendre l'axe des ordonnées adaptif pour afficher les ordonnées relatives au prix pour avoir une courbe plus explicite
 
 
 ## **Done :**
