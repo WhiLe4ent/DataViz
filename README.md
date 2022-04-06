@@ -5,12 +5,12 @@ Projet Mike/Achille
 
 Graph avec bokeh, la docu est plutôt claire : https://docs.bokeh.org/en/latest/docs/first_steps/first_steps_1.html
 
-Graph avec holoviews, la docu est plutôt pas clair : http://holoviews.org/getting_started/index.html
+Graph avec holoviews, la docu est pas mal aussi : http://holoviews.org/getting_started/index.html
 
 
 ## **TODO :**
 
-- [ ] afficher les deux graph en même temps : 
+- [x] afficher les deux graph en même temps : 
   - faire une fonction qui affiche l'un ou l'autre en fonction de si on clique sur bouton1 ou bouton2
   - ou
   - juste les afficher l'un après l'autre (en colonne pck on a un menu pour l'année pour ds)
@@ -18,11 +18,11 @@ Graph avec holoviews, la docu est plutôt pas clair : http://holoviews.org/getti
 
 - [ ] j'essaye d'afficher un range slider qui permettrait sur la figure faite avec bokeh de naviguer sur l'axe des abscisses et de choisir la partie à afficher : https://docs.bokeh.org/en/latest/docs/first_steps/first_steps_9.html
 - [ ] la doc permet aussi de choisir la taille des cercles avec un petit menu donc je l'ajouterai en même temps que le range slider.
-- [ ] si on fait pas la fonction : 
+- [x] si on fait pas la fonction : 
   - soit refaire la même figure en utilisant holoview pour pouvoir afficher les deux en même temps
   - soit refaire la figure avec le menu en bokeh
 
-- [ ] Améliorer la **visibilité** & les commentaires
+- [x] Améliorer la **visibilité** & les commentaires
 - [ ] Graph Holoviews : rendre l'axe des ordonnées adaptif pour afficher les ordonnées relatives au prix pour avoir une courbe plus explicite
 - [ ] Faire un range slider ( un truc qui te permet de selectionner de quand à quand tu veuxx voir |--------|[-----------]|---| c'est pas clair mais un bail dans le genre)
 
@@ -42,7 +42,9 @@ Graph avec holoviews, la docu est plutôt pas clair : http://holoviews.org/getti
   - courbe prix moyen par an
   - rond rouge montrant une forte évolution.
 
-- [x] graph avec menu déroulant permettant de choisir l'année (fait avec HoloViews)
+- [x] graph avec menu déroulant permettant de choisir l'année (fait avec HoloViews).
+- [x] menu déroulant permettant de choisir le graph global ou le graph année par année (fait avec bokeh et ipywidgets).
+
 
 
 
